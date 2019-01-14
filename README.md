@@ -1,16 +1,12 @@
-# flutter_credit_card_dashboard
+# credit_card_dashboard
+I tried to build credit card dashboard design and i took this design from pinterest. link is below
+https://www.pinterest.com/pin/376965431308461689/feedback/?invite_code=6c6afa9a3a94446297bde1e5dbc17610&sender_id=376965568718204874 
 
-A new Flutter application.
+There is no package or library was used on this demo project. 
+I wrote barely 600 lines of code to acheive this output which is pretty easy write.
 
-## Getting Started
+# screen on android and iphone 
+![alt text](https://raw.githubusercontent.com/sherpa-takashu124/credit_card_dashboard/master/screenshot/Screenshot_20190114-015332%20(1).jpg)
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/sherpa-takashu124/credit_card_dashboard/blob/master/screenshot/iphone1.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
